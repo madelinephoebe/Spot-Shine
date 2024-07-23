@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lessons Schedule
+X-WR-TIMEZONE:Asia/Manila
+X-WR-CALDESC:Schedule for Car Detailing Lessons
+BEGIN:VEVENT
+DTSTART:20230922T050000Z
+DTEND:20230922T060000Z
+DTSTAMP:20231208T094112Z
+ORGANIZER;CN=unknownorganizer@calendar.google.com:mailto:unknownorganizer@c
+ alendar.google.com
+UID:7kukuqrfedlm2f9t2b2995q1r21pa2s23a3cgvtf0207pbknqhptnptiuepkt6r507jg
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Baxter
+  Mojica;X-NUM-GUESTS=0:mailto:baxtermojica1812@gmail.com
+CLASS:PUBLIC
+CREATED:20230911T144850Z
+DESCRIPTION:PASSPORT APPOINTMENT\nDFA NCR South (Metro ATC\, Muntinlupa Cit
+ y)\n\nConfirmation number: 00082023092200349
+LAST-MODIFIED:20230921T075232Z
+LOCATION:DFA NCR South (Metro ATC\, Muntinlupa City)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PASSPORT APPOINTMENT
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231211T010000Z
+DTEND:20231211T020000Z
+DTSTAMP:20231208T094112Z
+UID:2a8cpmginuqt05626j2u93vhq0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Baxter
+  Mojica;X-NUM-GUESTS=0:mailto:baxtermojica1812@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/myx-dxki-ucb
+CREATED:20231208T091257Z
+DESCRIPTION:<b>Booked by</b>\nBaxter Mojica\nbaxtermojica1812@gmail.com\n<b
+ r>Lesson Dates. We can meet online via Google Meet. See you!\n\n-::~:~::~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::
+ -\nJoin with Google Meet: https://meet.google.com/myx-dxki-ucb\n\nLearn mor
+ e about Meet at: https://support.google.com/a/users/answer/9282720\n\nPleas
+ e do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20231208T091257Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Car Detailing Lessons (Baxter Mojica)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
